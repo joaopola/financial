@@ -1,0 +1,23 @@
+{
+  "name": "backend_financeiro",
+  "version": "1.0.0",
+  "description": "SEQUENCIA PARA CRIAR O PROJETO\r Criar o arquivo package\r ### npm init",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "joao polatto",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mariadb": "^2.5.4",
+    "mysql2": "^2.2.5",
+    "sequelize": "^6.6.5"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "sist_financeiro"
+  }
+}
